@@ -1,78 +1,73 @@
-# PoCSBRC2021
+# PoC_CloudNet2021
+Public repository with all infrastructure used in a Proof-of-Concept (PoC) of the paper "Using Machine Learning and In-band Network Telemetry for Service Metrics Estimation", submitted of CloudNet Conference 2021.
 
-Repositório público contendo a infraestrutura utilizada na Prova de Conceito (PoC) do artigo "Estimando métricas de serviço através de In-band Network Telemetry", submetido ao XXXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos.
-
-## Licença: 
+## Licence: 
 Creative Commons ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cc-by-nc_icon.svg/88px-Cc-by-nc_icon.svg.png)
 
-## Requisitos: 
+## Requirements: 
 - Hardware
-    - 200 GB de espaço em disco
-    - 32 GB de memória RAM
-    - Processadores intel Xeon E5-2630 2.60GHz (ou similar)
+    - 200 GB of HD
+    - 32 GB of RAM
+    - Processors intel Xeon E5-2630 2.60GHz (or similar)
 - Software
-    - Sistema operacional Linux (testado no ubuntu) ou OSX.
+    - Operating System Linux ou OSX.
     - Virtualbox
     - Vagrant
     - Ansible
 
-## Topologia:
+## Topology:
 ![alt text](https://raw.githubusercontent.com/leandrocalmeida/PoCSBRC2021/main/pictures/Cenario.jpeg)
 
-## Passos para executar a PoC
-1. Clonar o repositório git
+## Steps for run PoC
+1. Clone git repository
 
 ``` 
-git clone https://github.com/leandrocalmeida/PoCSBRC2021.git
+git clone https://github.com/leandrocalmeida/CloudNet2021.git
 ```
 
-2. Iniciar a infraestrutura com o vagrant
+2. Start with vagrant
 ```
-cd PoCSBRC2021/ 
-vagrant up
+cd CloudNet2021/ 
+vagrant up --provision
 ```
-3. Iniciar as coletas INT no sinkServer
+3. Start collect script in SinkServer
 ```
 vagrant ssh sinkServer
 cd /vagrant/code/
 sudo ./receive_int.py
 ```
-4. Iniciar o envio de pacotes INT no dashServer
+4. Start INT sender packets in a dashServer
 ```
 vagrant ssh dashServer
 cd /vagrant/code/
 sudo ./send_int.py 192.168.50.52
 ```
-6. Iniciar o VLC no clientVlc (Obs: utilizar a interface gráfica via protocolo RDP)
+6. Start vlc player in clientVlc (Obs: use GUI interface with RDP protocol)
 ```
 cd /vagrant/host-setup/clientVlc/
 ./client.sh
 ```
-8. Iniciar a carga no loadGen1 (Obs: utilizar a interface gráfica via protocolo RDP)
+8. Start load generators for sinusoid pattern (IF SINUSOID)
 ```
-cd /vagrant/code/loadGen/loadGen1/
-./mix_periodic_dash1.sh
+cd code/
+./run_experiment_sinusoid.sh
 ```
-9. Iniciar a carga no loadGen2 (Obs: utilizar a interface gráfica via protocolo RDP)
+10. Start load generators for flashcrowd pattern (IF FLASHCROWD)
 ```
-cd /vagrant/code/loadGen/loadGen2/
-./mix_periodic_dash2.sh
+cd code/
+./run_experiment_flashcrowd.sh
 ```
-10. Iniciar a carga no loadGen3 (Obs: utilizar a interface gráfica via protocolo RDP)
-```
-cd /vagrant/code/loadGen/loadGen3/
-./mix_periodic_dash3.sh
-```
-## Passos para construir o dataset
-1. Métricas INT (X) no sinkServer
+
+## Steps for build the dataset
+1. INT metrics (X) in the sinkServer
 ```
 cd /vagrant/code/logs/
 ```
-O arquivo é o ```log_INT.txt```
+File ```log_INT.txt```
 
-2. Coletar as métricas de QoS (Y) no clientVlc
+2. Extract QoS metrics (Y) from clientVlc
 ```
 cd /home/p4/logs/
 ```
-O arquivo possui formato com o nome ```dash_exp_"DATE".log```
-# PoCTNSM
+File with name ```dash_exp_"DATE".log```
+# PoC_CloudNet2021
