@@ -1,0 +1,2897 @@
+INFO:run:Using sine wave function with A=4.000000 period=0.034907
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19eb6ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19eb6e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec1050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec1090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec10d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec1150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec11d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec1250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec1210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19eb6ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19eb6e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19ec1050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19ec1090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19ec10d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19ec1150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19ec11d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec1110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19eb6e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19eb6ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec12d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec1050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec1090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6f19ec10d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19ec1250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19ec1210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19ec1110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19eb6e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19eb6ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f6f19ec12d0>
+INFO:run:Using sine wave function with A=4.000000 period=0.034907
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876c8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876c8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876c8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876c8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876c8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876c8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d32d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876c8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876c8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d32d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876c8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876c8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fc6876d3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876c8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876c8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d31d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fc6876d3250>
+INFO:run:Using sine wave function with A=4.000000 period=0.034907
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60d2ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60d2e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60d2ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60d2e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60d2e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60d2ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79e60dd1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60d2e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60d2ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f79e60dd1d0>
+INFO:run:Using sine wave function with A=4.000000 period=0.034907
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3190>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c32d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3190>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3190>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c32d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3310>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3190>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c32d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f54fb5c30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3350>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c31d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c32d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f54fb5c30d0>
+INFO:run:Using sine wave function with A=4.000000 period=0.034907
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f97b26ae190>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f97b26ae110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f97b26ae150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f97b26ae090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f97b26ae050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f97b26ae1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f97b26ae250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f97b26ae2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f97b26ae290>
+INFO:run:Using sine wave function with A=3.000000 period=0.034907
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fb65b29f190>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fb65b29f110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fb65b29f150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fb65b29f090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fb65b29f050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fb65b29f1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fb65b29f250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fb65b29f2d0>
+INFO:run:Using sine wave function with A=3.000000 period=0.034907
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f546b111190>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f546b111110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f546b111150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f546b111090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f546b111050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f546b1111d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f546b111190>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f546b111110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f546b111150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f546b1110d0>
+INFO:run:Using sine wave function with A=3.000000 period=0.034907
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f644cea1190>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f644cea1110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f644cea1150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f644cea1090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f644cea1050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f644cea11d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f644cea1250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f644cea12d0>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b8751ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b8751e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c3d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c4d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c5d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f61b875c650>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa49ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa49e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa540d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa541d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa542d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa543d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa544d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa545d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f79aaa54650>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc418fed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc418fe90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a3d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a4d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f5fc419a550>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fa8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fa8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb32d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb33d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb34d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb35d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3650>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3690>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb36d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3710>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3750>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f76d6fb3790>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a34ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a34e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f3d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f4d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f5d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f650>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f690>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f6d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f710>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f750>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f790>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f7d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f810>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f850>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f890>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2168a3f8d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f2168a34ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f2168a34e90>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b5ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b5de90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b680d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b681d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b682d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b683d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b684d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b685d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68650>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b68690>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f6ef4b686d0>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401e6ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401e6e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f10d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f11d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f12d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f13d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f14d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f15d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1650>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1690>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f16d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1710>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1750>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1790>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f17d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f07401f1810>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe46995ced0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe46995ce90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe4699670d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe4699671d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe4699672d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe4699673d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe4699674d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe4699675d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967650>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967690>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe4699676d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967710>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967750>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967790>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe4699677d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967810>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967850>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe469967890>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe4699678d0>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a605ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a605e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a6100d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a6101d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a6102d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a6103d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a6104d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a6105d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610650>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610690>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a6106d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610710>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610750>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610790>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a6107d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610810>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610850>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a610890>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f298a6108d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a605ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a605e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a610050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a610090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a6100d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a610150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a6101d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a610250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a610210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a610290>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f298a6102d0>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940aeed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940aee90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b90d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b91d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b92d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b93d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b94d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b95d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9650>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9690>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b96d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9710>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9750>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9790>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b97d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9810>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9850>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f2b940b9890>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b520ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b520e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b3d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b4d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b5d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b650>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b690>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b6d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b710>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b750>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b790>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe04b52b7d0>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f512ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f512e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d3d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d4d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d5d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d650>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f210f51d690>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1755ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1755e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf17600d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf17601d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf17602d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf17603d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf17604d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf17605d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f0bf1760650>
+INFO:run:Using sine wave function with A=10.000000 period=0.005236
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995e0ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995e0e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb3d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb4d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb550>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb5d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb610>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f06995eb650>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f06995e0ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f06995e0e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f06995eb050>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02119ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02119e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b021240d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b021241d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b021242d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b021243d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b021244d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02119ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02119e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b021240d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b021241d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02119e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02119ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b021240d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b021241d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124290>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b021242d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124310>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124350>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124390>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b021243d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124410>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124450>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b021242d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b021243d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4b02124410>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b021244d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02124110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4b02119e90>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a8586eed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a8586ee90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a858790d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a858791d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a858792d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a858793d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a858794d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a8586eed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a8586ee90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a858790d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a858791d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a8586ee90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a8586eed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a858790d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a858791d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879290>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a858792d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879310>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879350>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879390>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a858793d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879410>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879450>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a858792d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a858793d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879410>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a858794d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a8586ee90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a8586eed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879590>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a85879090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f4a858790d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a85879450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f4a8586eed0>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d1032ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d1032e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d3d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d4d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f12d103d510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f12d1032ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f12d1032e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f12d103d050>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d3eed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d3ee90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d49050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d49090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d490d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d49150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d491d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d49250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d49210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d49290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d492d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d49310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d49350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d49390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f9df9d493d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f9df9d3eed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f9df9d3ee90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f9df9d49050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f9df9d49090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f9df9d490d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f9df9d49150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f9df9d491d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f9df9d49250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f9df9d49210>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1ca4ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1ca4e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f1cd1caf3d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f1cd1ca4ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f1cd1ca4e90>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb7bed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb7be90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb860d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb861d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb862d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb863d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb864d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb7bed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb7be90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb860d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb861d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb7be90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb7bed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb860d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb86150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fa2deb861d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86290>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb862d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86310>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86350>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86390>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb863d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86410>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86450>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fa2deb86490>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893acfbed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893acfbe90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad060d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad061d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad062d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad063d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad064d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893acfbed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893acfbe90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad06050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad06090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad060d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad06150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad061d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad06250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad06210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893acfbe90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893acfbed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad060d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad06150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f893ad061d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad06290>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad062d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f893ad06310>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b625ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b625e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b6300d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b6301d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b6302d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b6303d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b6304d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f205b630510>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c1fded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c1fde90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c2080d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c2081d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c2082d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c2083d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c2084d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c1fded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c1fde90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c2080d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c2081d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c1fde90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c1fded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c2080d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c208150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f098c2081d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208290>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c2082d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208310>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208350>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208390>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c2083d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208410>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208450>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f098c208490>
+INFO:run:Using sine wave function with A=5.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860e3ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860e3e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee3d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee410>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee4d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860e3ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860e3e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860e3e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860e3ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee290>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee310>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee350>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee390>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee3d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee410>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee450>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee350>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee3d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee410>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee4d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee510>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860e3e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860e3ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee590>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee450>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860e3ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860e3e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee490>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee4d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee510>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee590>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee290>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee310>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee350>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f95860ee390>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f95860ee150>
+INFO:run:Using sine wave function with A=4.000000 period=0.020944
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021ce8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021ce8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021ce8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021ce8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021ce8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021ce8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf32d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021ce8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021ce8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf32d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021ce8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021ce8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021ce8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021ce8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021ce8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021ce8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff021cf3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf31d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021ce8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021ce8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff021cf3150>
+INFO:run:Using sine wave function with A=5.000000 period=0.003491
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c6640ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c6640e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b290>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b310>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f47c664b350>
+INFO:run:Using sine wave function with A=4.000000 period=0.006981
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f08b8e52ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f08b8e52e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f08b8e5d050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f08b8e5d090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f08b8e5d0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f08b8e5d150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f08b8e5d1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f08b8e5d250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f08b8e5d210>
+INFO:run:Using sine wave function with A=3.000000 period=0.006981
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f81c3a4fed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f81c3a4fe90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f81c3a5a050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f81c3a5a090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f81c3a5a0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f81c3a5a150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f81c3a5a1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f81c3a5a250>
+INFO:run:Using sine wave function with A=4.000000 period=0.006981
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea72ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f59eea7d250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f59eea7d2d0>
+INFO:run:Using sine wave function with A=4.000000 period=0.006981
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df32d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df32d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df32d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df32d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df32d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df32d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df32d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df32d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df30d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df31d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163df3210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7ff163de8ed0>
+INFO:run:Using sine wave function with A=4.000000 period=0.006981
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73330d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73331d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73330d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73331d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73332d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73330d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73332d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73331d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73330d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73331d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73332d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73330d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73332d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73331d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73332d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73330d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73331d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73330d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73331d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73332d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73330d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73332d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a73331d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7f58a7333110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7328ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73330d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a7333150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7f58a73331d0>
+INFO:run:Using sine wave function with A=4.000000 period=0.006981
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc2d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc2d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc0d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc1d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cdc210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1ed0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fee94cd1e90>
+INFO:run:Using sine wave function with A=4.000000 period=0.006981
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fe402302ed0>
+INFO:run:Using sine wave function with A=4.000000 period=0.006981
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a82d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a82d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a82d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a82d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a82d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8110>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a82d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a82d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8110>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a82d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8050>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8090>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a80d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8150>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:start:Starting new process
+INFO:start:Starting new process pid = <subprocess.Popen object at 0x7fd05e89de90>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a81d0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8250>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e8a8210>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89ded0>
+INFO:terminate:Terminating process pid = <subprocess.Popen object at 0x7fd05e89de90>
